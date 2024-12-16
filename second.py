@@ -1,0 +1,1 @@
+print('anothe file in conferences folder withot copying git dire folder')
